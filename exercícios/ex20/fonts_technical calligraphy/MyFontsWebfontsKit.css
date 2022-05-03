@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4752281, 2022-04-30T12:50:24-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TechnicalStandardVP-ThinOblique by VP Type
+ * URL: https://www.myfonts.com/fonts/val-kalinic/technical-standard-vp/thin-oblique/
+ * Copyright: Copyright © 2020 by Val Kalinic. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "TechnicalStandardVP-ThinOblique";
+  src: url('webFonts/TechnicalStandardVPThinOblique/font.woff2') format('woff2'), url('webFonts/TechnicalStandardVPThinOblique/font.woff') format('woff');
+}
+
